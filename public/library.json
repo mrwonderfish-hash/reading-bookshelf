@@ -1,0 +1,50 @@
+[
+  {
+    "id": "changing-planes",
+    "title": "变化的位面",
+    "english": "Changing Planes",
+    "author": "Ursula K. Le Guin",
+    "translator": "梁宇晗",
+    "storageKey": "changing-planes-pocket-v1",
+    "cacheKey": "changing-planes-library-cloud-v1",
+    "color": "#466d70",
+    "light": "#e7efed",
+    "tag": "在不同世界之间，读懂词语",
+    "data": "./books/changing-planes.json",
+    "count": 1935,
+    "chapters": 21,
+    "exportBook": "Changing Planes"
+  },
+  {
+    "id": "autobiography-red",
+    "title": "红的自传",
+    "english": "Autobiography of Red",
+    "exportBook": "Autobiography of Red",
+    "author": "Anne Carson",
+    "translator": "黄茜",
+    "storageKey": "autobiography-red-pocket-v1",
+    "cacheKey": "autobiography-red-library-cloud-v1",
+    "color": "#974c42",
+    "light": "#f5e8e2",
+    "tag": "诗、神话，以及红色的日常",
+    "data": "./books/autobiography-red.json",
+    "count": 965,
+    "chapters": 69
+  },
+  {
+    "id": "parable-sower",
+    "title": "播种者寓言",
+    "english": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "translator": "耿辉",
+    "storageKey": "parable-sower-pocket-v1",
+    "cacheKey": "parable-sower-cloud-v1",
+    "color": "#527040",
+    "light": "#e9eedc",
+    "tag": "在变化的世界里，播下语言",
+    "data": "./books/parable-sower.json",
+    "count": 1407,
+    "chapters": 29,
+    "exportBook": "Parable of the Sower"
+  }
+]
